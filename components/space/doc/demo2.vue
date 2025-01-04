@@ -1,0 +1,10 @@
+<template>
+  <z-space direction='vertical'>
+    <z-button>按钮</z-button>
+    <z-button>按钮</z-button>
+    <z-button>按钮</z-button>
+    <z-button>按钮</z-button>
+    <z-button>按钮</z-button>
+    <z-button>按钮</z-button>
+  </z-space>
+</template>

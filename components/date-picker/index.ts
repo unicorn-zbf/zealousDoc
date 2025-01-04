@@ -1,0 +1,8 @@
+import zDatePicker from './src/index.vue';
+
+zDatePicker.install = (Vue:any) => {
+  Vue.component(zDatePicker.name,zDatePicker)
+}
+
+export default zDatePicker;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
